@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/robotic-search/static/css/main.b1a3163a.css",
+    "main.js": "/robotic-search/static/js/main.b3d92ade.js",
+    "index.html": "/robotic-search/index.html",
+    "main.b1a3163a.css.map": "/robotic-search/static/css/main.b1a3163a.css.map",
+    "main.b3d92ade.js.map": "/robotic-search/static/js/main.b3d92ade.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1a3163a.css",
+    "static/js/main.b3d92ade.js"
+  ]
+}
