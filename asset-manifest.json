@@ -1,13 +1,15 @@
 {
-  "files": {
-    "main.css": "/robotic-search/static/css/main.b1a3163a.css",
-    "main.js": "/robotic-search/static/js/main.b3d92ade.js",
-    "index.html": "/robotic-search/index.html",
-    "main.b1a3163a.css.map": "/robotic-search/static/css/main.b1a3163a.css.map",
-    "main.b3d92ade.js.map": "/robotic-search/static/js/main.b3d92ade.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.b1a3163a.css",
-    "static/js/main.b3d92ade.js"
-  ]
+  "main.css": "/robotic-search/static/css/main.0b6f6017.chunk.css",
+  "main.js": "/robotic-search/static/js/main.0f2cad3d.chunk.js",
+  "main.js.map": "/robotic-search/static/js/main.0f2cad3d.chunk.js.map",
+  "runtime~main.js": "/robotic-search/static/js/runtime~main.bc8a1d16.js",
+  "runtime~main.js.map": "/robotic-search/static/js/runtime~main.bc8a1d16.js.map",
+  "static/css/2.288dc2c0.chunk.css": "/robotic-search/static/css/2.288dc2c0.chunk.css",
+  "static/js/2.cf8dcc85.chunk.js": "/robotic-search/static/js/2.cf8dcc85.chunk.js",
+  "static/js/2.cf8dcc85.chunk.js.map": "/robotic-search/static/js/2.cf8dcc85.chunk.js.map",
+  "index.html": "/robotic-search/index.html",
+  "precache-manifest.94c113b86f5f1b122a916c988c43571c.js": "/robotic-search/precache-manifest.94c113b86f5f1b122a916c988c43571c.js",
+  "service-worker.js": "/robotic-search/service-worker.js",
+  "static/css/2.288dc2c0.chunk.css.map": "/robotic-search/static/css/2.288dc2c0.chunk.css.map",
+  "static/css/main.0b6f6017.chunk.css.map": "/robotic-search/static/css/main.0b6f6017.chunk.css.map"
 }
